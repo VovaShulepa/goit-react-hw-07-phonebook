@@ -16,9 +16,14 @@
   min-width: 50px;
   padding: 0 16px 0 16px;
   cursor: pointer;
+
 }
 
 .contactListItemBtn:hover {
   background-color: rgb(0, 195, 234);
   cursor: pointer;
+}
+
+.contactListItem {
+  list-style: none;
 }

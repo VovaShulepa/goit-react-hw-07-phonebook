@@ -26,8 +26,7 @@ export const App = () => {
         alignItems: 'center',
         fontSize: 20,
         color: '#010101',
-        background:
-          'linear-gradient(180deg, rgb(238, 254, 183) 19.1%, rgb(169, 254, 222) 53.9%, rgb(90, 222, 255) 92%)',
+        background: 'linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c)',
       }}
     >
       <h1>Phonebook ☎</h1>
